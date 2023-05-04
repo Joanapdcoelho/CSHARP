@@ -1,0 +1,1 @@
+Roslyn version: 4.4.0.0Language version: CSharp7_3!Concurrent execution: enabledºµFile 'Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs' was recognized as generated

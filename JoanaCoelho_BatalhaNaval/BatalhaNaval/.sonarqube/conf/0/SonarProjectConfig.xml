@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\BatalhaNaval.csproj</ProjectPath>
+  <FilesToAnalyzePath>Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\.sonarqube\out\0</OutPath>
+  <ProjectType>Product</ProjectType>
+</SonarProjectConfig>
