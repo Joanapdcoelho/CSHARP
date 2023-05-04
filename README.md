@@ -1,2 +1,0 @@
-# CSHARP
- Projetos de C# 
