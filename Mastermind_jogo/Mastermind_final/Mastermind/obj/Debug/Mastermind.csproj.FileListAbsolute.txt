@@ -1,0 +1,48 @@
+C:\Users\joana\Desktop\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\joana\Desktop\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\joana\Desktop\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.AssemblyReference.cache
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.Properties.Resources.resources
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.Form2_regras.resources
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.csproj.AssemblyReference.cache
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.Form2_regras.resources
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.Properties.Resources.resources
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\joana\Desktop\Mastermind - Cópia\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\joana\Desktop\Mastermind\Mastermind\bin\Debug\Mastermind.exe.manifest
+C:\Users\joana\Desktop\Mastermind\Mastermind\bin\Debug\Mastermind.application
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.exe.manifest
+C:\Users\joana\Desktop\Mastermind\Mastermind\obj\Debug\Mastermind.application
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.csproj.AssemblyReference.cache
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.csproj.SuggestedBindingRedirects.cache
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.exe
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.pdb
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\bin\Debug\Mastermind.exe.manifest
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\bin\Debug\Mastermind.application
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.Form2_regras.resources
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.Properties.Resources.resources
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.exe.manifest
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.application
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\App e jogos em C#\Mastermind_jogo\Mastermind_final\Mastermind\obj\Debug\Mastermind.pdb
