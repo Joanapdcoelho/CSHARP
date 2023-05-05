@@ -1,0 +1,52 @@
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Splash.wav
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bat_naval_ju.wav
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Navio.wav
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bomba.wav
+C:\Users\joana\Dropbox\Cinel - TPSI\turma MOD.ITPSI.C.D.84\Programação_Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Board Room Applause.wav
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bat_naval_ju.wav
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Board Room Applause.wav
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bomba.wav
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Navio.wav
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Splash.wav
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel - TPSI CET.TPSI.N.L.74\Pacheco\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bat_naval_ju.wav
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Board Room Applause.wav
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bomba.wav
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Navio.wav
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Splash.wav
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+Z:\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bat_naval_ju.wav
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Board Room Applause.wav
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bomba.wav
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Navio.wav
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Splash.wav
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
