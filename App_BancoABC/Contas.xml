@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contas>
+  <Conta>
+    <NumConta>1</NumConta>
+    <Titular>Maria Joaquina</Titular>
+    <Saldo>12000</Saldo>
+    <Desativo>True</Desativo>
+  </Conta>
+  <Conta>
+    <NumConta>2</NumConta>
+    <Titular>Mariana Antonino</Titular>
+    <Saldo>14000</Saldo>
+    <Desativo>False</Desativo>
+  </Conta>
+  <Conta>
+    <NumConta>3</NumConta>
+    <Titular>Hugo Antonio</Titular>
+    <Saldo>17000</Saldo>
+    <Desativo>False</Desativo>
+  </Conta>
+  <Conta>
+    <NumConta>4</NumConta>
+    <Titular>Manuel Joaquim</Titular>
+    <Saldo>14000</Saldo>
+    <Desativo>False</Desativo>
+  </Conta>
+</Contas>

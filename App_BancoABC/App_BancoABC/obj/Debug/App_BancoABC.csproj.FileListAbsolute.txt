@@ -1,0 +1,95 @@
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\bin\Debug\App_BancoABC.exe.config
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\bin\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\bin\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.Form_banco.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.Properties.Resources.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC\App_BancoABC\obj\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\bin\Debug\App_BancoABC.exe.config
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\bin\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\bin\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.Form_banco.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.Properties.Resources.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.FormAutor.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.FormConta.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2\App_BancoABC\obj\Debug\App_BancoABC.FormLevantaDeposita.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\bin\Debug\App_BancoABC.exe.config
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\bin\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\bin\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.Form_Main.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormAutor.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormConta.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormLevantaDeposita.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.Properties.Resources.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413 - POO\Aplicações\App_BancoABC_v2 - Cópia_18_02_2023\App_BancoABC\obj\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\bin\Debug\App_BancoABC.exe.config
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\bin\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\bin\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.Form_Main.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormAutor.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormConta.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormLevantaDeposita.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.Properties.Resources.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_24_02_2023\App_BancoABC\obj\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\bin\Debug\App_BancoABC.exe.config
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\bin\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\bin\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.Form_Main.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormAutor.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormConta.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.FormLevantaDeposita.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.Properties.Resources.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_25_02_2023\App_BancoABC\obj\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\bin\Debug\App_BancoABC.exe.config
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\bin\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\bin\Debug\App_BancoABC.pdb
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.Form_Main.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.FormAutor.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.FormConta.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.FormLevantaDeposita.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.Properties.Resources.resources
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.GenerateResource.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.exe
+C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\5413_POO\Aplicações\App_BancoABC_01_03_2023\App_BancoABC\obj\Debug\App_BancoABC.pdb
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\bin\Debug\App_BancoABC.exe.config
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\bin\Debug\App_BancoABC.exe
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\bin\Debug\App_BancoABC.pdb
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.AssemblyReference.cache
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.Form_Main.resources
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.FormAutor.resources
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.FormConta.resources
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.FormLevantaDeposita.resources
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.Properties.Resources.resources
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.GenerateResource.cache
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.csproj.CoreCompileInputs.cache
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.exe
+C:\Users\joana\Desktop\App_BancoABC_02_03_2023\App_BancoABC\obj\Debug\App_BancoABC.pdb

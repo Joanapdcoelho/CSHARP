@@ -1,0 +1,4 @@
+1;Joana Coelho;20000;False;
+2;António Bragança;14500;False;
+3;Joaquim António;14500;False;
+4;Manuela Antunes;12800;False;

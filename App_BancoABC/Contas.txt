@@ -1,0 +1,4 @@
+1;Maria Joaquina;12000;True;
+2;Mariana Antonino;14000;False;
+3;Hugo Antonio;17000;False;
+4;Manuel Joaquim;14000;False;
