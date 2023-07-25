@@ -50,3 +50,16 @@ C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_
 C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
 C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
 C:\Users\joana\Dropbox\Cinel_TPSI CET.TPSI.N.L.74\App e jogos em C#\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bat_naval_ju.wav
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Board Room Applause.wav
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\bomba.wav
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Navio.wav
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\Splash.wav
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.AssemblyReference.cache
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.SuggestedBindingRedirects.cache
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\joana\Dropbox\Cinel_CET_TPSI74\Github\CSharp\JoanaCoelho_BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
